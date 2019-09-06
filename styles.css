@@ -1,5 +1,29 @@
 html
 
 body{
-  background-image: linear-gradient(red, blue);
+  background-color: lightblue
+}
+
+.title {
+  text-align: center;
+  font-style: italic;
+  font-size: 40px
+}
+
+.pic2{
+  float: inherit;
+
+}
+
+
+
+
+
+.pic3 {
+  width: auto;
+  height: auto;
+}
+
+.p1, .p2, .p3, .p4, .p5{
+  font-family: sans-serif;
 }
